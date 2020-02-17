@@ -9,7 +9,7 @@ public class CreateRomb {
 
         for (int i = 0; i < number; i++) {
 
-            for (int j = 0; j < rombLenght; j++) {
+            for (int j = 0; j < rombLenght-1; j++) {
                 System.out.print(" ");
             }
 
